@@ -1,7 +1,7 @@
 ## PART 1
 
 The coding part weights 40% of this howework grades. You should
-specify the changed parts (give specific line numbers) of the code
+specify the changed parts (give specific line numbers) of the code(provided in the src folder)
 that shows your own implementation (5%). The rest 35% is on the
 correctness of your implementation. Your scanner should be able to be
 compiled and run successfully by following your Readme on the VCL
